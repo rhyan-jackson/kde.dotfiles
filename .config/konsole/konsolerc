@@ -10,8 +10,11 @@ DefaultProfile=Modern.profile
 [KonsoleWindow]
 ForceNewTabs=true
 
-[UiSettings]
-ColorScheme=
+[Notification Messages]
+CloseAllTabs=true
 
 [TerminalFeatures]
 SmoothScrolling=false
+
+[UiSettings]
+ColorScheme=

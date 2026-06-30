@@ -10,6 +10,7 @@ vim.opt.scrolloff = 8
 vim.opt.expandtab = true
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
+vim.opt.smartindent = true
 
 -- keep command interface space unified
 vim.opt.cmdheight = 1
